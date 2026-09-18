@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "826884517133",
+    "project_id": "grocery-express-aa145",
+    "storage_bucket": "grocery-express-aa145.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826884517133:android:998721b61f0ee2c7b65444",
+        "android_client_info": {
+          "package_name": "com.mansoorhussain.groceryexpress"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAZoJVB3WMvZKl0RXRiEVdNriJyJHbw9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
